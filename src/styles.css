@@ -21,8 +21,8 @@ body {
   background-image: url('./templates/bg-pattern.png');
 }
 
-#inputRef {
-  margin: 20px;
+#inputbox {
+  margin: 20px auto;
   padding: 20px;
   text-align: center;
   font-size: 30px;
